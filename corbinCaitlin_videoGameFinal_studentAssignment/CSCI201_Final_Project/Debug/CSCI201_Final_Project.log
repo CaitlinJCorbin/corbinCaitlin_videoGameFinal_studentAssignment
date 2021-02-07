@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(469,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(474,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(487,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(492,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(505,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(510,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(523,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(528,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(541,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\CSCI201_Final_Project\main.cpp(546,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CSCI201_Final_Project.vcxproj -> C:\Users\caitl\Desktop\CSCI201 Final\CSCI201_Final_Project\Debug\CSCI201_Final_Project.exe
